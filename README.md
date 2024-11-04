@@ -5,7 +5,6 @@ Welcome to my Markdown Project repository! This project explores markdown featur
 - [Introduction](#introduction)
 - [Topics](./topics.md)
 - [Resources](./resources.md)
-- [Project Ideas](./project-ideas.md)
 - [About](#about)
 
 ## Introduction
